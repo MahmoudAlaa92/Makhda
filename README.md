@@ -1,7 +1,6 @@
 # Makhda
-Road map for ios 
-ممكن تبدأ تاخد فكرة عن المجال من كورس Angela yu
-في udemy
+Angela yu in udemy
+ممكن تبدأ تاخد فكرة عن المجال من كورس 
 ابدأ ركز علي المواضيع دي و اقرا عنها كويس و اديلها وقتها
 
 ## 1- Swift : 
@@ -43,13 +42,13 @@ Road map for ios
 •⁠  ⁠Unit Testing
 •⁠  ⁠CI/CD
 
-تابع ع اليويتوب و تويتر ناس زي 
+## تابع ع اليويتوب و تويتر ناس زي 
 •⁠  ⁠Paul hudson
 •⁠  ⁠Sean Allen 
 •⁠  ⁠iOS Academy
 هيفيدوك جدا
 
-محتاج تشوف الفيديوهين دوول عشان فيهم ال material اللي هتذاكر منها وكل النصايح
+## محتاج تشوف الفيديوهين دوول عشان فيهم ال material اللي هتذاكر منها وكل النصايح
 
 - @Essam Fahmy https://www.youtube.com/watch?v=iPg4R57EIlI
 
