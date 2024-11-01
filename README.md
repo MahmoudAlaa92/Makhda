@@ -1,6 +1,7 @@
 # Makhda
 Angela yu in udemy
-ممكن تبدأ تاخد فكرة عن المجال من كورس 
+كبداية ممكن تبدأ تاخد فكرة عن المجال من كورس 
+- link of course :  https://www.udemy.com/course/ios-13-app-development-bootcamp/?couponCode=ST6MT103124
 
 ### ابدأ ركز علي المواضيع دي و اقرا عنها كويس و اديلها وقتها
 
@@ -33,7 +34,7 @@ Angela yu in udemy
 •⁠  ⁠Swift Conccurrency
 
 ### بعدها تبدأ تعمل ابلكيشنز تقلد حاجات مشهورة 
-تعمل Twitter clone , uber clone
+زي Twitter clone , NetFlix clone
 هتلاقي نفسك بتعطل ف كذا حاجه و دا عادي ابدأ دور عليها
 
 ### بعدها هتكون وصلت لمستوى مبتدئ كويس و تقدر تضيف لنفسك حاجات هتنقل مستواك تماما زي
@@ -55,6 +56,8 @@ Angela yu in udemy
 
 - @AhmadYasser https://www.youtube.com/watch?v=ogaq7kLHylA&list=WL&index=26
 
-## iOS Mentorship - Motoon
+## iOS Mentorship - Motoon @Ahmed Hasn
+
 -  dokan-store wiki! -> https://github.com/motoon-eg/dokan-store/wiki
+  
 -  healthy app wiki! -> https://github.com/motoon-eg/healthy/wiki
