@@ -2,6 +2,7 @@
 Angela yu in udemy
 كبداية ممكن تبدأ تاخد فكرة عن المجال من كورس 
 - link of course :  https://www.udemy.com/course/ios-13-app-development-bootcamp/?couponCode=ST6MT103124
+  
 - iOS Summer training 2024 (30 Day) : https://drive.google.com/drive/u/1/folders/1F5C79JO8n_RXLcwILDUP6BcagOdaY3Uv
 
 ### ابدأ ركز علي المواضيع دي و اقرا عنها كويس و اديلها وقتها
