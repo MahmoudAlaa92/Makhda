@@ -1,9 +1,10 @@
 # Makhda
 Angela yu in udemy
 ممكن تبدأ تاخد فكرة عن المجال من كورس 
-ابدأ ركز علي المواضيع دي و اقرا عنها كويس و اديلها وقتها
 
-## 1- Swift : 
+### ابدأ ركز علي المواضيع دي و اقرا عنها كويس و اديلها وقتها
+
+### 1- Swift : 
 •⁠  ⁠Collections
 •⁠  ⁠OOP
 •⁠  ⁠Protocols
@@ -11,44 +12,44 @@ Angela yu in udemy
 •⁠  ⁠DS & Algorithms 
 •⁠  ⁠Design patterns 
 
-## 2- UI design
+### 2- UI design :
 •⁠  ⁠UIKit with storyboards
 •⁠  ⁠Uikit with Nib files
 •⁠  ⁠UIKit programmatic UI
 •⁠  ⁠SwiftUI ( ممكن تأجلها )
 
-## 3- Presistence database :
+### 3- Presistence database :
 •⁠  ⁠CoreData 
 •⁠  ⁠Realm
 
-## 4- Networking 
+### 4- Networking :
 •⁠  ⁠URL Session
 •⁠  ⁠Firebase 
 •⁠  ⁠Alamofire
 
-## 5- Conccurrency 
+### 5- Conccurrency :
 •⁠  ⁠GCD 
 •⁠  ⁠Operation Queue 
 •⁠  ⁠Swift Conccurrency
 
-## بعدها تبدأ تعمل ابلكيشنز تقلد حاجات مشهورة 
+### بعدها تبدأ تعمل ابلكيشنز تقلد حاجات مشهورة 
 تعمل Twitter clone , uber clone
 هتلاقي نفسك بتعطل ف كذا حاجه و دا عادي ابدأ دور عليها
 
-## بعدها هتكون وصلت لمستوى مبتدئ كويس و تقدر تضيف لنفسك حاجات هتنقل مستواك تماما زي
+### بعدها هتكون وصلت لمستوى مبتدئ كويس و تقدر تضيف لنفسك حاجات هتنقل مستواك تماما زي
 •⁠  ⁠Combine 
 •⁠  ⁠RxSwift
 •⁠  ⁠MVVM
 •⁠  ⁠Unit Testing
 •⁠  ⁠CI/CD
 
-## تابع ع اليويتوب و تويتر ناس زي 
+### تابع ع اليويتوب و تويتر ناس زي 
 •⁠  ⁠Paul hudson
 •⁠  ⁠Sean Allen 
 •⁠  ⁠iOS Academy
 هيفيدوك جدا
 
-## محتاج تشوف الفيديوهين دوول عشان فيهم ال material اللي هتذاكر منها وكل النصايح
+### محتاج تشوف الفيديوهين دوول عشان فيهم ال material اللي هتذاكر منها وكل النصايح
 
 - @Essam Fahmy https://www.youtube.com/watch?v=iPg4R57EIlI
 
